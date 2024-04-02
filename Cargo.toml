@@ -5,11 +5,11 @@ edition = "2021"
 homepage = "https://www.CroftSoft.com/"
 license = "MIT"
 name = "com-croftsoft-lib"
-publish = false
+publish = true
 readme = "README.md"
 repository = "https://github.com/david-wallace-croft/com-croftsoft-lib"
 rust-version = "1.73"
-version = "0.1.1-SNAPSHOT"
+version = "0.1.1"
 
 [dependencies]
 com-croftsoft-lib-animation = "0.0.8"
